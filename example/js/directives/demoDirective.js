@@ -1,4 +1,4 @@
-define(['registry'], function (registry) {
+define(['ng-registry'], function (registry) {
   registry.directive('formatPrice', function () {
     return {
       link: function (scope, element, attrs) {
