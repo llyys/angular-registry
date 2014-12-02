@@ -1,6 +1,6 @@
 {
   "name": "ng-registry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repo": "angular-registry",
   "description": "Adapter for angular requirejs integration",
   "main": "./ng-registry.js",
@@ -10,7 +10,7 @@
   },
   "keywords": [
     "angular",
-    "requirejs"    
+    "requirejs"
   ],
   "license": "MIT"
 }
