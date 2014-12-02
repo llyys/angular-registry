@@ -1,0 +1,16 @@
+{
+  "name": "angular-registry",
+  "version": "1.0.0",
+  "repo": "bitovi/canjs",
+  "description": "Can do JavaScript MVC",
+  "main": "./angular-registry.js",
+  "dependencies": {
+    "angular",
+    "requirejs"    
+  },
+  "keywords": [
+    "angular",
+    "requirejs"    
+  ],
+  "license": "MIT"
+}
