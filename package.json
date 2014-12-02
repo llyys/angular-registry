@@ -1,0 +1,28 @@
+{
+  "name": "angular-require",
+  "description": "Angular dependencie registry",
+  "homepage": "https://github.com/llyys/angular-require",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/llyys/angular-require.git"
+  },
+  "bugs": {
+    "url": "https://github.com/llyys/angular-require/issues"
+  },
+  "keywords": [
+    "angular",
+    "requirejs"
+  ],
+  "author": {
+    "name": "llyys",
+    "email": "lyys.lauri@gmail.com"
+  },
+  "main": "./main",
+  "bin": {},
+  "engines": {
+    "node": "~0.10"
+  },
+  "version": "0.2.1",
+  "license": "MIT",
+  "readmeFilename": "README.md"  
+}
