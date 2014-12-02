@@ -1,8 +1,8 @@
 {
   "name": "angular-registry",
   "version": "1.0.0",
-  "repo": "bitovi/canjs",
-  "description": "Can do JavaScript MVC",
+  "repo": "angular-registry",
+  "description": "Angular requirejs registry to dynamically register angularjs custom modules, directives, controllers etc",
   "main": "./angular-registry.js",
   "dependencies": {
     "angular",
