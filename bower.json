@@ -1,13 +1,13 @@
 {
-  "name": "angular-registry",
+  "name": "ng-registry",
   "version": "1.0.0",
   "repo": "angular-registry",
-  "description": "Angular requirejs registry to dynamically register angularjs custom modules, directives, controllers etc",
-  "main": "./angular-registry.js",
-  "dependencies": {
+  "description": "Adapter for angular requirejs integration",
+  "main": "./ng-registry.js",
+  "dependencies": [
     "angular",
     "requirejs"    
-  },
+  ],
   "keywords": [
     "angular",
     "requirejs"    

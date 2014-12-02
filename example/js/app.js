@@ -1,4 +1,4 @@
-define(['require-config', 'registry', 'directives/demoDirective'], function  (config, registry) {
+define(['require-config', 'ng-registry', 'directives/demoDirective'], function  (config, registry) {
 	var angularApp = registry.module('app'); //
 	registry.factory('$exceptionHandler', function() {
 	    return function(exception, cause) {
